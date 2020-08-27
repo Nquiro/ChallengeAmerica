@@ -1,31 +1,140 @@
 ﻿@{
-    ViewBag.Title = "Home Page";
+    ViewBag.Title = "Weather";
 }
 
-<div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="http://asp.net" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+<h1 style="text-align:center">Servicio del clima</h1>
+
+<hr style="border:1px solid;color:#3292FF;" />
+
+<div>
+    @*<strong>Ingrese ciudad  :</strong><input id="txtCity" type="text" />
+        <br />
+        <br />
+        <button id="btnSubmit">Buscar</button>*@
 </div>
 
-<div class="row">
-    <div class="col-md-4">
-        <h2>Getting started</h2>
-        <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
-        </p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+
+<div>
+    @*<h2>Reporte del clima</h2>
+        <table>
+            <tr>
+                <td><img id="imgWeatherIconUrl" src="" title="" /></td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>Ciudad: </strong>
+                    <span id="lblCity"></span>&nbsp;&nbsp;,
+                    <span id="lblCountry"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>Latitud: </strong>
+                    <label id="lblLat"></label><br />
+                    <strong>Longitud: </strong>
+                    <label id="lblLon"></label>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>Descripcion:</strong>
+                    <label id="lblDescription"></label><br />
+                    <strong>Humedad:</strong>
+                    <label id="lblHumidity"></label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Sensacion termica<label id="lblTempFeelsLike"></label><br />
+                    Temperatura <label id="lblTemp"></label><br />
+                    Temperatura (Min)<label id="lblTempMin"></label><br />
+                    Temperatura (Max)<label id="lblTempMax"></label><br />
+                    Viento<label id="lblviento"></label><br />
+
+                </td>
+            </tr>
+
+
+        </table>*@
+    <div class="row">
+        <div id="busquedaCiudad" class="card col-md-6">
+            <h2 style="text-align:center;color:#3292FF;">Seleccione su Ciudad</h2>
+            <hr style="border:1px solid;color:#3292FF" />
+            <strong>Ingrese ciudad: </strong><input id="txtCity" type="text" />
+
+            <br />
+            <br />
+            <button id="btnSubmit" style="width: 200px; border: 1px solid; border-color: white; background-color: #ff6859; border-radius: 4px; color: white; font-size: 17px;align-items:center;height:30px;padding:0;">Buscar</button>
+        </div>
+        <div class="card col-md-6">
+            <div class="row">
+                <h2 style="text-align:center;color:#3292FF;">Reporte</h2>
+                <hr style="border:1px solid;color:#3292FF;" />
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <span id="lblCountry2" style="font-size: revert;color: gray;"></span> <br />
+                    <span id="lblCity2" style="font-size: revert;color: gray;"></span> <br />
+                    <span id="lblDia" style="font-size:30px"></span><br />
+                    <label id="lblTemp2" style="font-size:90px"></label>
+                </div>
+                <div class="col-lg-6">
+                    <img id="imgWeatherIconUrl2" src="" title="" />
+                    <label id="lblHumidity2"></label> <br />
+                    <label id="lblviento2"></label>
+                </div>
+            </div>
+
+        </div>
     </div>
-    <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
-    </div>
-    <div class="col-md-4">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
-    </div>
+
 </div>
+
+<script>
+
+    $("#btnSubmit").click(function () {
+
+        var ciudad = $("#txtCity").val();
+        if (ciudad.length > 0) {
+            $.ajax({
+                url: "http://localhost:61533//Home/WeatherDetail?City=" + ciudad,
+                type: "POST",
+                success: function (rsltval) {
+                    var data = JSON.parse(rsltval);
+                    console.log(data);
+                    $("#lblCity").html(data.City);
+                    $("#lblCountry").text(data.Country);
+                    $("#lblCity2").html(data.City);
+                    $("#lblCountry2").text(data.Country);
+                    $("#lblLat").text(data.Lat);
+                    $("#lblLon").text(data.Lon);
+                    $("#lblDescription").text(data.Description);
+                    $("#lblHumidity").text("Humedad: " + data.Humidity + "%");
+                    $("#lblHumidity2").text("Humedad: " + data.Humidity + "%");
+                    $("#lblTempFeelsLike").text(data.TempFeelsLike);
+                    $("#lblTemp").text(data.Temp);
+                    $("#lblTemp2").text(data.Temp + " º");
+                    $("#lblTempMax").text(data.TempMax);
+                    $("#lblTempMin").text(data.TempMin);
+                    $("#lblviento").text(data.Speed);
+                    $("#lblviento2").text("Viento: " + data.Speed + "km/h");
+                    $("#imgWeatherIconUrl").attr("src", "http://openweathermap.org/img/w/" + data.WeatherIcon + ".png");
+                    $("#imgWeatherIconUrl2").attr("src", "http://openweathermap.org/img/w/" + data.WeatherIcon + ".png");
+                    $("#imgWeatherIconUrl2").css(
+                        "width", "100%",
+                        "heigth", "60%"
+                    );
+                    $("#lblDia").text(data.Dia);
+                },
+                error: function () {
+
+                }
+            });
+        }
+        else {
+            alert("Ciudad no encontrada, porfavor ingrese una nueva");
+        }
+    });
+
+</script>
