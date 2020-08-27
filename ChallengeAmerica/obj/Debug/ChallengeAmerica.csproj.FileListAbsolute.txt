@@ -1,0 +1,101 @@
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\ChallengeAmerica.dll.config
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\ChallengeAmerica.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\ChallengeAmerica.pdb
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\Antlr3.Runtime.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\Newtonsoft.Json.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Helpers.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Mvc.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Optimization.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Razor.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Razor.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\WebGrease.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Helpers.xml
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Mvc.xml
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Optimization.xml
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Razor.xml
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.xml
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Razor.xml
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\Newtonsoft.Json.xml
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\Antlr3.Runtime.pdb
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Razor.resources.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.csprojResolveAssemblyReference.cache
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.dll
+C:\Users\niquiroga\Desktop\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.pdb
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\ChallengeAmerica.dll.config
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\ChallengeAmerica.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\ChallengeAmerica.pdb
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\Antlr3.Runtime.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\Newtonsoft.Json.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Helpers.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Mvc.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Optimization.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Razor.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Razor.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\WebGrease.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Helpers.xml
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Mvc.xml
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Optimization.xml
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Razor.xml
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.xml
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Razor.xml
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\Newtonsoft.Json.xml
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\Antlr3.Runtime.pdb
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Razor.resources.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.csproj.CopyComplete
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.dll
+C:\Users\Julian\source\repos\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.pdb
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\ChallengeAmerica.dll.config
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\ChallengeAmerica.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\ChallengeAmerica.pdb
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\Antlr3.Runtime.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\Newtonsoft.Json.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Helpers.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Mvc.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Optimization.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Razor.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Razor.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\WebGrease.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Helpers.xml
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Mvc.xml
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Optimization.xml
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.Razor.xml
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.xml
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\System.Web.WebPages.Razor.xml
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\Newtonsoft.Json.xml
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\Antlr3.Runtime.pdb
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.Razor.resources.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.csprojResolveAssemblyReference.cache
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.dll
+C:\Users\niquiroga\Desktop\Desarrollo NQU\X\ChallengeAmerica_\ChallengeAmerica\obj\Debug\ChallengeAmerica.pdb
